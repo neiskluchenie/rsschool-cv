@@ -58,6 +58,15 @@ html {
     padding: 50px 30px 35px;
 }
 
+.section-profile-title {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    text-align: center;
+    text-transform: uppercase;
+}
+
 .footer-container {
     display: flex;
     justify-content: space-between;
